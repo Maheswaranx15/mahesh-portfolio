@@ -1,0 +1,107 @@
+MAHESHWARAN RAMESH
++91-822-044-8359 | maheshwarankr.98@gmail.com
+/linkedinmaheswaran-kr | /githubMaheshwaranx15 | /twittermaheswaran7746
+Dindigul, Tamilnadu - 624003, India
+OBJECTIVE
+Seasoned Blockchain Developer with 4.8 years of expertise in crafting and deploying innovative smart contracts across
+leading blockchain ecosystems, including Ethereum (Solidity), Fuel (Sway), Algorand (PyTeal), and BitcoinSV
+(sCrypt). Proven track record of delivering secure, scalable, and efficient decentralized applications to mainnet,
+showcasing exceptional technical acumen and a passion for blockchain innovation.
+EXPERIENCE
+• Osiz T echnologies [/gl⌢be] Oct 2020 – Jul 2021
+Jr.Blockchain developer Madurai, India
+◦ Spearheaded smart contract development as part of the research team, leveraging Solidity to deliver innovative
+blockchain solutions.
+◦ Authored comprehensive documentation detailing NFT creation and DEFI processes, establishing standardized
+guidelines that improved team-wide consistency and streamlined development over a five-month project lifecycle.
+◦ Deployed Mainnet Projects
+• Netobjex [Contract Role] [ /gl⌢be] Jul 2021 – Feb 2022
+Associate Blockchain developer Remote
+◦ Designed and developed an NFT marketplace on the Algorand blockchain using PyTeal, integrating a seamless
+wallet ecosystem with AlgoSigner for enhanced user experience and secure transactions.
+◦ Implemented backend solutions using Node.js to interact with smart contracts, ensuring smooth communication
+between on-chain and off-chain components.
+◦ Managed off-chain data storage and retrieval using databases, optimizing performance and scalability for the NFT
+marketplace.
+• Guardian Link [ /gl⌢be] Feb 2022 – Jul 2023
+Sr.Blockchain Engineer Chennai, India
+◦ Contributed to Jump.Trade, Asia’s largest NFT marketplace, by developing robust smart contract integration scripts
+to enhance platform functionality.
+◦ Designed and implemented a scalable minting engine capable of minting up to 40,000 NFTs, ensuring efficiency
+and reliability during high-demand operations.
+• RyukLabs [/gl⌢be] Jul 2023 – May 2024
+Sr.Blockchain Engineer Banglore, India
+◦ BulkDisburse - Bulk disbursal contract to reward USDT to the gamers - Still live and disbursed 500k+ already.
+◦ Upgradable Shadow Wallets - Account Abstraction based shadow wallet for mobile users - 12k + created
+smartcontract wallet.
+◦ SmartTransfer - EIP712 standard meta-txn enabled USDT transfer without the need of gas - Still live and 45k+
+transactions already executed.
+• Chainscript Labs [ /gl⌢be] May 2024 – Present
+Lead Blockchain Engineer Tenkasi, India
+◦ NFT Collections : Advanced smart contracts for game tournaments and seamlessly integrated NFT marketplaces
+with Unreal Engine and VR gaming platforms, revolutionizing blockchain-powered gaming experiences.
+◦ Karmaleague : Pioneered the development of a decentralized social media platform, enabling transparency, user
+ownership, and enhanced digital interaction.
+EDUCATION
+• SSM Institute of Engineering and T echnology Mar 2016 – Apr 2020
+BE in Computer Science Dindigul, India
+◦ GPA: 7.9
+• St.mary’s Higher secondary school, Apr 2014 – Apr 2016
+Higher Secondary in Computer Science Dindigul, India
+◦ Grade: 77
+• St.mary’s Higher secondary school, Apr 2009 – Jan 2014
+High School education Dindigul, India
+◦ Grade: 88
+
+PROJECTS
+• Jump.T rade Feb 2022 – Jul 2023
+T ools: [Solidity,Nest.js,ether.js,MongoDB,Docker]
+◦ Enhanced a blockchain-based cricket game with NFT integration, enabling users to experience premium gameplay
+features like advanced player abilities (shots, fielding, batsmen, and bowlers).
+◦ Developed a new reconnection engine to improve connectivity, ensuring smooth gameplay and an optimized user
+experience.
+◦ Introduced "World Cup Mode," name change functionality (limited to once per week), and claimable rewards like
+Free Kitbags and Store Rewards.
+• Lootmogul-Marketplace Aug 2023 – Dec 2023
+T ools:[Solidity,Node.js,ether.js,MongoDB,Docker,Micro-service architecture,React,Wallet integration]
+◦ Developed AI-driven solutions by integrating NFT marketplaces with smart contracts, enabling secure transactions
+and enhanced user experiences.
+◦ Designed decentralized game tournaments and blockchain-powered leaderboards for transparent scoring and
+seamless rewards distribution, boosting fan engagement.
+◦ Contributed to the "Text-to-X" innovation, enabling fans to create games, merchandise, stats, and fantasy leagues.
+• KGen Aug 2023 – Dec 2023
+T ools:[Solidity,Node.js,ether.js,MongoDB,Docker,Micro-service architecture,Nest.js,Wallet integration,Swagger,AWS]
+◦ Contributed to KGeN—a DAO bridging gamers and game communities to onboard millions to Web3 through the
+revolutionary P .O.G. (Proof of Gamer) Engine.
+◦ Developed smart contracts for game tournaments, NFT rewards, and token-based trading, empowering seamless
+interaction across the multi-chain gaming network.
+◦ Designed a microservice architecture for automated reward distribution, ensuring scalability and efficiency.
+◦ Account Abstraction based shadow wallet for mobile users - 12k + created smartcontract wallet
+• KarmaLeague Aug 2023 – Dec 2023
+T ools:[Solidity,Node.js,ether.js,MongoDB,Docker,Wallet integration,Next.js,Loopback,Readyplayerme avatar]
+◦ Developed a decentralized social media application on Layer 1 blockchain, enabling real-time features like posts,
+likes, comments, replies, Aha moments, and a chat system.
+◦ Designed and implemented smart contracts for storing feed items on the blockchain, ensuring transparency and
+immutability.
+◦ Developed a point generation system based on content quality, likes, and comments, rewarding users with ERC20
+tokens, and integrated the platform with KL Meta Game for VR and PC interactions, allowing asset purchases from
+the in-game store.
+◦ Introduced a DeFi swap mechanism that allows seamless token swaps between ETH and USDT, MATIC and ETH,
+and USDC, enhancing liquidity and user flexibility.
+• Production Deploy contracts Oct 2020 – Present
+T ools: [Solidity,ether.js]
+◦ Developed and deployed production-grade DeFi smart contracts on Fuel Blockchain and Ethereum, integrating
+protocols like Uniswap, PancakeSwap, Aave, and custom lending/borrowing mechanisms.
+◦ Implemented staking, flash loan capabilities and token swap mechanisms, enhancing liquidity, yield generation,
+and user engagement.
+◦ Optimized smart contracts for gas efficiency,performance, and security, ensuring scalable and cost-effective
+solutions across DeFi platforms.
+SKILLS
+• Programming Languages: Solidity, Rust, Typescript, Javascript, Sway, Pyteal, Scrypt
+• Web T echnologies:Next.js, React, HTML5, Tailwand CSS
+• Database Systems: MongoDB, PostgreSql, MYSQL
+• Cloud T echnologies:IPFS, AWS
+• DevOps & V ersion Control:Git,Docker
+• Specialized Area: Blockchain, Back-end Development, Front-end Integration
+• Frame-Works & T echnologies:Nest.js, Node.js, Loopback,Scrypt
+• Research Skills: BSV Blockchain, Fuel Blockchain, Algorand, Solana
