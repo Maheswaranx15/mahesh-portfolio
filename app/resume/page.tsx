@@ -42,6 +42,20 @@ export default function ResumePage() {
           <li>- Growth path from smart contract specialist to architecture-level system ownership.</li>
         </ul>
       </MotionSection>
+
+      <MotionSection className="rounded-2xl border border-white/10 bg-black/30 p-8">
+        <h2 className="text-2xl font-semibold text-white">Resume Preview</h2>
+        <p className="mt-3 text-sm text-mist md:text-base">
+          Quick in-page preview. Open the full PDF in a new tab for best readability.
+        </p>
+        <div className="mt-6 overflow-hidden rounded-xl border border-white/10 bg-black/20">
+          <iframe
+            src="/Mahesh_CV.pdf#view=FitH"
+            title="Maheshwaran Ramesh Resume PDF"
+            className="h-[70vh] w-full"
+          />
+        </div>
+      </MotionSection>
     </div>
   );
 }

@@ -127,10 +127,21 @@ export const metrics: Metric[] = [
 
 export const experience: ExperienceItem[] = [
   {
+    company: "Calibraint",
+    role: "Lead Blockchain Developer",
+    period: "May 2025 - Present",
+    location: "India",
+    highlights: [
+      "Leading architecture and implementation of blockchain systems spanning NFT gaming ecosystems, social platforms, and protocol integrations.",
+      "Driving smart contract and protocol delivery with production-grade reliability and scale focus.",
+      "Owning cross-functional Web3 execution across contracts, backend orchestration, and product integration.",
+    ],
+  },
+  {
     company: "Chainscript Labs",
     role: "Lead Blockchain Engineer",
-    period: "May 2024 - Present",
-    location: "Tenkasi, India",
+    period: "May 2024 - May 2025",
+    location: "India",
     highlights: [
       "Leading architecture and implementation of blockchain systems spanning NFT gaming ecosystems, social platforms, and protocol integrations.",
       "Delivered contracts and integration layers for tournament logic, NFT reward systems, and marketplace pipelines.",
@@ -568,6 +579,7 @@ export const timelineNarrative = [
   "2021: Expanded to Algorand ecosystem delivery and wallet-linked marketplace architecture.",
   "2022-2023: Scaled NFT systems for Jump.Trade with high-throughput minting infrastructure.",
   "2023-2024: Built production DeFi rails at RyukLabs (disbursal, shadow wallets, gasless transfers).",
-  "2024-Present: Leading architecture direction for advanced blockchain product systems at Chainscript Labs.",
+  "2024-2025: Led architecture direction for advanced blockchain product systems at Chainscript Labs.",
+  "2025-Present: Leading blockchain development and architecture initiatives at Calibraint.",
   "Current Arc: Advancing into DePIN, tokenized trade finance, L1 infra deployment, and AI-assisted on-chain automation.",
 ];
